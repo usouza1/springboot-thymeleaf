@@ -1,6 +1,0 @@
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/model/Funcionario.java
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/model/FuncionarioSetor.java
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/controller/FuncionarioController.java
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/GerenciadorFuncionariosApplication.java
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/controller/HomeController.java
-/home/uss/desenv/springboot-thymeleaf/src/main/java/com/cod3r/gerenciadorfuncionarios/repository/FuncionarioRepository.java
